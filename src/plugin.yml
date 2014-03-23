@@ -1,0 +1,8 @@
+name: VyzonHub
+main: me.XvPROTECTEDvX.VyzonHub.Main
+version: 1.0
+description: >
+             Custom Vyzon Hub Plugin
+commands:
+  coins:
+    description: Coins Command
